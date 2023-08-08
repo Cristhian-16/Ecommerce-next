@@ -1,0 +1,67 @@
+{
+	"productos": [
+		{
+			"id": "polo-1",
+			"title": "Polo Negro",
+			"tipo": "Polo",
+			"price": 20.99,
+			"talla": "M"
+		},
+		{
+			"id": "polo-2",
+			"title": "Polo Blanco",
+			"tipo": "Polo",
+			"price": 20.99,
+			"talla": "M"
+		},
+		{
+			"id": "polo-3",
+			"title": "Polo Anaranjado",
+			"tipo": "Polo",
+			"price": 20.99,
+			"talla": "M"
+		},
+		{
+			"id": "hoddie-1",
+			"title": "Hoddie Azul Marino",
+			"tipo": "Hoddie",
+			"price": 35.99,
+			"talla": "M"
+		},
+		{
+			"id": "hoddie-2",
+			"title": "Hoddie Negro",
+			"tipo": "Hoddie",
+			"price": 35.99,
+			"talla": "M"
+		},
+		{
+			"id": "hoddie-3",
+			"title": "Hoddie Verde",
+			"tipo": "Hoddie",
+			"price": 35.99,
+			"talla": "M"
+		},
+		{
+			"id": "cuero-11",
+			"title": "Casaca Cuero",
+			"tipo": "Casaca",
+			"price": 245.99,
+			"talla": "M"
+		},
+		{
+			"id": "cuero-12",
+			"title": "Casaca Cuero Modelo X",
+			"tipo": "Casaca",
+			"price": 245.99,
+			"talla": "M"
+		},
+		{
+			"id": "cuero-17",
+			"title": "Casaca Cuero Modelo Z",
+			"tipo": "Casaca",
+			"price": 245.99,
+			"talla": "M"
+		}
+	]
+}
